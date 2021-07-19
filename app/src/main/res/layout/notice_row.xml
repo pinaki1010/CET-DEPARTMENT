@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="time"
+            android:layout_gravity="end"
+            android:layout_marginRight="5sp"
+            android:id="@+id/notice_time"
+            android:textSize="16sp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="title"
+            android:textStyle="bold"
+            android:padding="5sp"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:id="@+id/notice_title"
+            android:textSize="19sp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="body"
+            android:textAllCaps="true"
+            android:padding="10sp"
+            android:id="@+id/notice_body"
+            android:textSize="16sp"/>
+    </LinearLayout>
+</android.support.v7.widget.CardView>

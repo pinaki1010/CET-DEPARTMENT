@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_HOME"
+            android:icon="@drawable/home_nav"
+            android:title="MCA Home" />
+        <item
+            android:id="@+id/nav_syllabus"
+            android:icon="@drawable/syllabus"
+            android:title="Syllabus" />
+        <item
+            android:id="@+id/nav_Notification"
+            android:icon="@drawable/notifaction"
+            android:title="Notification" />
+        <item
+            android:id="@+id/nav_placement"
+            android:icon="@drawable/record"
+            android:title="Placement Record" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/gallery"
+            android:title="Gallery" />
+        <item
+            android:id="@+id/nav_faculty"
+            android:icon="@drawable/facaulty"
+            android:title="Faculty Details" />
+        <item
+            android:id="@+id/nav_calender"
+            android:icon="@drawable/callender"
+            android:title="Calender" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_About"
+                android:icon="@drawable/about"
+                android:title="About US" />
+            <item
+                android:id="@+id/nav_Contact"
+                android:icon="@drawable/contact"
+                android:title="Contact Us" />
+            <item
+                android:id="@+id/nav_Feedback"
+                android:icon="@drawable/feedback"
+                android:title="Feed Back" />
+        </menu>
+    </item>
+
+</menu>

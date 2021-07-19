@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">CET MCA</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="tosreate">To create a learning environment for enhancing skill To Place student in reputed organisation by reflecting their technical as well as soft skills. To make the students societal, sympathetic and progressive in upliftment of the mankind. To encourage students to have innovative, ideals that can be converted to feasible and implementable project.</string>
+    <string name="department">
+        Department of Computer Science and Application was established in the year 1993, in College of Engineering and Technology, OUAT. The PGDCA program, under the department of Electrical Engineering from 1989 to 1992 was transformed into the MCA program and was bought under the CSA department.
+        With an initial strength of 30 students, the department started in the year 1993.
+        In the past 22 years, the department has developed manifold to join the club of elite departments in the state.
+
+        The department is committed to provide best quality knowledge in a lucid and less tiresome ways.
+        The alumni of the department include software developers, bankers, academicians, entrepreneurs, and people from various other fields.
+        The placement record of this department bears the testimony of its dedication and determination.</string>
+    <string name="search_dev"><![CDATA[To develop the student\'s’ skill to cope with the challenging industries expectations and to spring up the department to attain the international quality in the field of Education, Research & Development.]]></string>
+
+    <string name="syllabus_first">First Year Syllabus</string>
+    <string name="provide_the_register_email_address_to_send_the_password_reset_email">Provide the register email address to send the password reset email.</string>
+</resources>
